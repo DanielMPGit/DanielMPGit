@@ -2,7 +2,7 @@
 
 Multiplatform Application Development student, passionate about technology and driven to build real-world solutions.
 
-## 💻 Lenguajes
+## 💻 Languages
 ![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1e1e2e?style=for-the-badge&logo=html5&logoColor=E34F26)
