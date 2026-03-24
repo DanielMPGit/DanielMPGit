@@ -10,7 +10,7 @@ Multiplatform Application Development student, passionate about technology and d
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=4479A1)
 
-## Experience
+## 💡 Experience
 - **Home Assistant** – Experience with automations, dashboards, and IoT device control.
 - **Nextcloud** – Experience with self-hosted cloud storage, file sharing, and server management.
 - **Arduino / ESP32** – Projects in home automation, sensors, and hardware control.
