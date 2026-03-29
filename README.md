@@ -18,6 +18,6 @@ Multiplatform Application Development student, passionate about technology and d
 ## 📊 GitHub Statistics
 
 <a href="https://github.com/DanielMPGit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMPGit&show_icons=true&hide_border=true&bg_color=303446&title_color=f2cdcd&text_color=f5e0dc&icon_color=f5c2e7" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMPGit&show_icons=true&hide_border=true&bg_color=303446&title_color=f2cdcd&text_color=f5e0dc&icon_color=f5c2e7" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMPGit&layout=compact&hide_border=true&bg_color=303446&title_color=f2cdcd&text_color=f5e0dc&icon_color=f5c2e7" alt="Top Languages" />
 </a>
