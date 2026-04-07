@@ -11,6 +11,9 @@ Multiplatform Application Development student, passionate about technology and d
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=4479A1)
 
 ## 💡 Experience
+-- **Studying Multiplatform Application Development (DAM)** - Software development, including programming, databases, and application design.
+-- **Telecommunications Installation Technician** - Knowledge of electrical systems, electronics, and systems.
+## 💡 Aditional
 - **Home Assistant** – Experience with automations, dashboards, and IoT device control.
 - **Nextcloud** – Experience with self-hosted cloud storage, file sharing, and server management.
 - **Arduino / ESP32** – Projects in home automation, sensors, and hardware control.
