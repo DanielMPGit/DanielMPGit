@@ -10,7 +10,7 @@ Multiplatform Application Development student, passionate about technology and d
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=4479A1)
 
-## 💡 Experience
+## 🎓 Experience
 -- **Studying Multiplatform Application Development (DAM)** - Software development, including programming, databases, and application design.
 -- **Telecommunications Installation Technician** - Knowledge of electrical systems, electronics, and systems.
 ## 💡 Aditional
