@@ -14,7 +14,7 @@ Multiplatform Application Development student, passionate about technology and d
 - **Studying Multiplatform Application Development (DAM)** - Software development, including programming, databases, and application design.
 - **Telecommunications Installation Technician** - Knowledge of electrical systems, electronics, and systems.
 
-## 💡 Aditional
+## 💡 Additional
 - **Home Assistant** – Experience with automations, dashboards, and IoT device control.
 - **Nextcloud** – Experience with self-hosted cloud storage, file sharing, and server management.
 - **Arduino / ESP32** – Projects in home automation, sensors, and hardware control.
